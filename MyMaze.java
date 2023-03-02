@@ -1,6 +1,3 @@
-// Names: Ahmed Shahkhan, Akshay Peddi
-// x500s: shahk005, peddi022
-
 import java.util.Random;
 
 public class MyMaze{
